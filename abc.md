@@ -7,7 +7,7 @@
 
 [![image]](http://www.github.com/)
 [image]: github.png "github"
-![image]: github.png "github"
+![]github.png "github"
 
 
 [![baidu]](http://baidu.com)  
