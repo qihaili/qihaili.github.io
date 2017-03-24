@@ -6,7 +6,7 @@
 * bullet
 
 [![image]](http://www.github.com/)
-[image]:http://github.com/github.png "github"
+[image]:./github.png "github"
 
 
 [![baidu]](http://baidu.com)  
